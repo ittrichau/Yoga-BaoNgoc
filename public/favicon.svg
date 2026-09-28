@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#F7F4EF"/>
+  <!-- left petal -->
+  <path fill="#8FAF9D" d="M16 25.5C9.8 22 7.2 16.8 8 11.8 10.2 15.6 13.4 19.2 16 25.5Z"/>
+  <!-- right petal -->
+  <path fill="#8FAF9D" d="M16 25.5C22.2 22 24.8 16.8 24 11.8 21.8 15.6 18.6 19.2 16 25.5Z"/>
+  <!-- center petal -->
+  <path fill="#748C70" d="M16 6c-2.2 6.4-3.8 10.6-3.8 14.2 0 3.1 1.5 5.1 3.8 6.8 2.3-1.7 3.8-3.7 3.8-6.8C19.8 16.6 18.2 12.4 16 6Z"/>
+</svg>

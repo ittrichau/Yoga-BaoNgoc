@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fitness and Yoga Bảo Ngọc",
+      "hasCanvas": false,
+      "bodyTextLen": 28,
+      "bodyTextHash": "b1160a8c156dff309fd3b302e1375cf2532dd0dcb669772d22dd4079a9f2df9a",
+      "bodyTextPrefix": "FITNESS AND YOGA Đang tải...",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fitness and Yoga Bảo Ngọc",
+      "hasCanvas": false,
+      "bodyTextLen": 255,
+      "bodyTextHash": "d7162240c236a6af1c4d5b244d96e25974bddb961dc975ad5eb6e3636173d480",
+      "bodyTextPrefix": "FITNESS AND YOGA Đăng nhập Dành cho giáo viên và quản lý cơ sở. ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
